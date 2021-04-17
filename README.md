@@ -1,6 +1,6 @@
 # Clone da Epic Games
 
-## Tecnologias Utilizadas:
+# Tecnologias Utilizadas:
 - [Html](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [Css](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
