@@ -4,7 +4,6 @@ Página desenvolvida apenas para estudos.
 ### Tecnologias:
 - [Html](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [Css](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 # Layout:
 
